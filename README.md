@@ -2,8 +2,7 @@
 
 ## Proposito do projeto
 
-Criado para solucao da solucao para Developer da Walmart. 
-Utilizado na solução JAX-RS para geracao do token Jwt.
+Criado para solucao da solucao para Developer da Walmart.
 
 ## Compilando o projeto
 
