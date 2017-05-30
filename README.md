@@ -2,7 +2,7 @@
 
 ## Proposito do projeto
 
-Criado para solucao da solucao para Developer da Walmart.
+Criado para solucao do teste para Developer da Walmart.
 
 ## Compilando o projeto
 
